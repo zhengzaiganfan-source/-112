@@ -1,0 +1,7 @@
+{
+  "name": "Porcelain Repair Experience",
+  "description": "A 3D interactive experience where users repair and examine a blue and white porcelain vase using hand gestures via webcam.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
